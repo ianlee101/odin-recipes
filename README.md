@@ -1,7 +1,7 @@
 # odin-recipes
 
 ## Links
-- [Live preview](ianlee101.github.io/odin-recipes)
+- [Live preview](https://ianlee101.github.io/odin-recipes)
 
 - [Link to assignment](https://www.theodinproject.com/lessons/foundations-recipes)
 
