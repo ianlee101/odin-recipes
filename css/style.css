@@ -1,15 +1,17 @@
 body {
-    background-color: #e3e3e3;
+    background-color: #fafafa;
     font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin: 0 auto;
 }
 
 a {
-    color: blue;
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
 a:hover {
-    color: rgb(0, 167, 189);
+    color: rgb(0, 0, 0);
 }
 
 ul li {
@@ -18,4 +20,34 @@ ul li {
 
 h2 {
     color: blueviolet;
+}
+
+.recipe-list {
+    list-style: none;
+    margin: 0;
+    padding: 16px;
+    width: 30%;
+    border: solid black 2px;
+    border-radius: 10px;
+    background-color: #444444;
+}
+
+.recipe-list a {
+    padding: 10px;
+    padding-left: 15px;
+    background-color: #444444;
+    display: block;
+    border-radius: 10px;
+}
+
+.recipe-list a:hover {
+    background-color: rgb(153, 153, 153);
+}
+
+.recipe-title {
+    margin-bottom: 0;
+}
+
+.recipe-author {
+    margin-top: 0;
 }
